@@ -6,7 +6,10 @@
 
 
 # plastic_bags_counter
-CAWIL.AI Research
+Repository containing the plastic bags counter program for CAWIL.AI Research
+This program takes in a .mp4 video file as an argument and uses a Yolov3 model
+to create a bounding box for each individual plastic bag detected by the 
+the model and counts the number of plastic bags
 
 
 
